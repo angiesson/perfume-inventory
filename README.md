@@ -35,7 +35,7 @@ The database is connected to the API, allowing persistent storage and retrieval 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/angiesson/perfume-inventory.git
    ```
 
 2. Set up your PostgreSQL database
